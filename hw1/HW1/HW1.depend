@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1540474423 source:/home/bensonuououo/Documents/OS/hw1/HW1/pthread.cpp
+	<pthread.h>
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<string.h>
+

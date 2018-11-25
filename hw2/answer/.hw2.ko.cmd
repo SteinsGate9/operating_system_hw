@@ -1,0 +1,1 @@
+cmd_/home/bensonuououo/Desktop/OS/hw2/answer/hw2.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/bensonuououo/Desktop/OS/hw2/answer/hw2.ko /home/bensonuououo/Desktop/OS/hw2/answer/hw2.o /home/bensonuououo/Desktop/OS/hw2/answer/hw2.mod.o ;  true
